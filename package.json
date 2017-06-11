@@ -9,6 +9,9 @@
   "files": [
     "bin"
   ],
+  "bin": {
+    "stylus-chokidar": "bin/stylus-chokidar"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dnsorlov/stylus-chokidar.git"
