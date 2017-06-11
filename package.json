@@ -1,0 +1,25 @@
+{
+  "name": "stylus-chokidar",
+  "version": "0.0.1",
+  "description": "A fork of stylus CLI to add recursion for paths resolution and chokidar as files watcher.",
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylus",
+    "chokidar",
+    "stylus-chokidar",
+    "css",
+    "preprocessor"
+  ],
+  "author": "Denis Orlov",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.7.0",
+    "stylus": "^0.54.5"
+  }
+}
