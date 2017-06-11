@@ -1,6 +1,6 @@
 {
   "name": "stylus-chokidar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A fork of stylus CLI to add recursion for paths resolution and chokidar as files watcher.",
   "main": "index.js",
   "engines": {
@@ -10,7 +10,7 @@
     "bin"
   ],
   "bin": {
-    "stylus-chokidar": "bin/stylus-chokidar"
+    "stylus-chokidar": "./bin/stylus-chokidar"
   },
   "repository": {
     "type": "git",
