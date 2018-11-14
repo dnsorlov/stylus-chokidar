@@ -7,7 +7,7 @@ Recursion are always enabled, glob patterns not supported.
 
 ## Usage
 
-The same as the stylus CLI.
+The same as the [Stylus CLI](http://stylus-lang.com/docs/executable.html).
 
 example:
 
